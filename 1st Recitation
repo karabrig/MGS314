@@ -1,0 +1,31 @@
+x= 'this is a string'
+print(x)
+
+y=9
+z=10
+print (y+z)
+x=10.34
+ty=type (x)
+print (ty)
+
+x=10.34
+print(type(x))
+
+x_string= "Hello!"
+print(type(x_string))
+
+x=1
+print(type(x))
+
+print("abc/def/jfk/")
+
+marks_obtained= 45
+total_marks= 100
+percent= (marks_obtained/total_marks)*100
+print(percent)
+
+x= "I am a UB Student"
+print (x[0]) 
+print (x[3])
+print (x[-1])
+print (x[0:4]) 
